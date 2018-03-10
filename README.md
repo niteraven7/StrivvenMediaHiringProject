@@ -7,21 +7,21 @@ If you have any questions, concerns, or issues, please do not hesitate to email 
 
 # Project Steps
 1. Clone this project using Git.
-2. Follow instructions in [Part 1](#part-1) and include final results in the Part 1 folder.
-3. Follow instructions in [Part 2]($part-2) and include the final results in the Part 2 folder.
+2. Follow instructions in [Part 1](#part-1) and include final results in the [Part1-SQL folder](https://github.com/StrivvenMedia/HiringProject/tree/master/Part1-SQL).
+3. Follow instructions in [Part 2]($part-2) and include the final results in the [Part2-App folder](https://github.com/StrivvenMedia/HiringProject/tree/master/Part2-App).
 4.  When you are finished, do a Pull Request on the project for us to review. Be sure to include any information we might need in the Pull Request.
 
 # Part 1
-The first part of the project is to test your SQL skills.  All the links you will need are provided below and all files are in the [Part1-SQL Folder]().
+The first part of the project is to test your SQL skills.  All the links you will need are provided below and all files are in the [Part1-SQL Folder](https://github.com/StrivvenMedia/HiringProject/tree/master/Part1-SQL).
 
 We have provided you with a [database backup]() which you will need to restore into [MSSQL 2017](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) instance.  You will also probably want to install the Microsoft Management Studio application.  This will allow you to run and test the SQL in an IDE like environment.
 
-There is a file [`questions.sql`]() that you will need to open and fill out.  It contains questions that need to be answered, using the database backup provided.  For example something like, please write a query that gets all the users with no email ordered by their first names descending.
+There is a file [`questions.sql`](https://github.com/StrivvenMedia/HiringProject/blob/master/Part1-SQL/questions.sql) that you will need to open and fill out.  It contains questions that need to be answered, using the database backup provided.  For example something like, please write a query that gets all the users with no email ordered by their first names descending.
 
 
 
 # Part 2
-The next part involves creating a PHP application using the technologies and data links below.
+The next part involves creating a PHP application using the technologies and data links below.  
 
 The application needs to include the following.
 1. Create a functioning login page, and logout feature. (please provide username and password in the PULL REQUEST)
@@ -31,7 +31,7 @@ The application needs to include the following.
 
 
 ### Assessment Data
-* [Data File]()
+* [Data File](https://github.com/StrivvenMedia/HiringProject/blob/master/Part2-App/Assessment%20Data.xlsx)
 
 ### Technologies Required
 * [SlimPHP Framework 2 or 3](https://www.slimframework.com/)
