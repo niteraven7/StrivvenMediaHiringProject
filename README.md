@@ -1,9 +1,9 @@
 # Hiring Project
 This project is meant to gauge your skills, attention to detail, and creativity.  We are testing your full stack skills; TSQL, PHP, Javascript, HTML, CSS.  Also, your ability to work within predefined libraries and frameworks.
 
-You can take as much time as you need, but the amount of time it takes will be considered.  We realize life can get in the way, so if you have extenuating circumstances for why the project is taking so long, just let us know.  The project ETA is about 1 - 2 weeks, depending on available time.
+You can take as much time as you need, but the amount of time it takes will be considered.  We realize life can get in the way, so if you have extenuating circumstances for why the project is taking so long, just let us know.  The project ETA is about 1 - 3 weeks, depending on available time.
 
-If you have any questions, concerns, or issues, please do not hesitate to email the VJS rep directly.
+If you have any questions, concerns, clarifications, or issues, please do not hesitate to email us directly.
 
 # Project Steps
 1. Clone this project using Git.
@@ -24,11 +24,16 @@ There is a file [questions.sql](https://github.com/StrivvenMedia/HiringProject/b
 The next part involves creating a PHP application using the technologies and data links below.  
 
 The application needs to include the following.
-1. Create a functioning login page, and logout feature. (please provide username and password in the PULL REQUEST)
+1. Create a functioning login page, and logout feature.
 2. Using the Assessment data provided, allow the user to take an assessment. They should be allowed to take the assessment as many times as they want.
 3. Store the results of only the last assessment taken.  (No need to keep the results of every time taking it)
 4. Display the results for the user.
 
+
+### Don't Forget
+* be sure to put the database backup in with your project.
+* if we need to know a password to login, please remember to include that information in the `PULL REQUEST`.
+* Don't put any sensitive information in this project.  It is public.
 
 ### Assessment Data
 * [Data File](https://github.com/StrivvenMedia/HiringProject/blob/master/Part2-App/Assessment%20Data.xlsx)

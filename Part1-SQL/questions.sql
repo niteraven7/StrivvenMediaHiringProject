@@ -25,7 +25,7 @@
 --  with the last name 'Johnson'
 SELECT *
   FROM users
-  WHERE lastName = 'Johnson';
+  WHERE lName = 'Johnson';
 
 
 -- QUESTION 1
