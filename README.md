@@ -14,9 +14,9 @@ If you have any questions, concerns, or issues, please do not hesitate to email 
 # Part 1
 The first part of the project is to test your SQL skills.  All the links you will need are provided below and all files are in the [Part1-SQL Folder](https://github.com/StrivvenMedia/HiringProject/tree/master/Part1-SQL).
 
-We have provided you with a [database backup]() which you will need to restore into [MSSQL 2017](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) instance.  You will also probably want to install the Microsoft Management Studio application.  This will allow you to run and test the SQL in an IDE like environment.
+We have provided you with a [schemas.sql file](https://github.com/StrivvenMedia/HiringProject/blob/master/Part1-SQL/schemas.sql). This file will contain all the table schemas we will be asking questions about. You can create the tables in either (MySQL or MSSQL).
 
-There is a file [`questions.sql`](https://github.com/StrivvenMedia/HiringProject/blob/master/Part1-SQL/questions.sql) that you will need to open and fill out.  It contains questions that need to be answered, using the database backup provided.  For example something like, please write a query that gets all the users with no email ordered by their first names descending.
+There is a file [questions.sql](https://github.com/StrivvenMedia/HiringProject/blob/master/Part1-SQL/questions.sql) that you will need to open and fill out.  It contains questions that need to be answered, using the schemas provided.  For example something like, please write a query that gets all the users with no email ordered by their first names descending.
 
 
 
