@@ -9,7 +9,7 @@ If you have any questions, concerns, clarifications, or issues, please do not he
 1. Clone this project using Git.
 2. Follow instructions in [Part 1](#part-1) and include final results in the [Part1-SQL folder](https://github.com/StrivvenMedia/HiringProject/tree/master/Part1-SQL).
 3. Follow instructions in [Part 2]($part-2) and include the final results in the [Part2-App folder](https://github.com/StrivvenMedia/HiringProject/tree/master/Part2-App).
-4.  When you are finished, do a Pull Request on the project for us to review. Be sure to include any information we might need in the Pull Request.
+4.  When you are finished, push your final results to a public repo on github, and send us a link.
 
 # Part 1
 The first part of the project is to test your SQL skills.  All the links you will need are provided below and all files are in the [Part1-SQL Folder](https://github.com/StrivvenMedia/HiringProject/tree/master/Part1-SQL).
@@ -25,15 +25,15 @@ The next part involves creating a PHP application using the technologies and dat
 
 The application needs to include the following.
 1. Create a functioning login page, and logout feature.
-2. Using the Assessment data provided, allow the user to take an assessment. They should be allowed to take the assessment as many times as they want.
+2. Using the [Assessment data](https://github.com/StrivvenMedia/HiringProject/blob/master/Part2-App/Assessment%20Data.xlsx) provided, allow the user to take an assessment. They should be allowed to take the assessment as many times as they want.
 3. Store the results of only the last assessment taken.  (No need to keep the results of every time taking it)
 4. Display the results for the user.
 
 
 ### Don't Forget
-* be sure to put the database backup in with your project.
-* if we need to know a password to login, please remember to include that information in the `PULL REQUEST`.
-* Don't put any sensitive information in this project.  It is public.
+* be sure to put the database backup in with your project.  Or some type of exported schema.
+* if we need to know a password to login, please remember to include that information in the `README.md` in your repository.
+* __DO NOT__ put any sensitive information in this project.  It is public. We are not responsible.
 
 ### Assessment Data
 * [Data File](https://github.com/StrivvenMedia/HiringProject/blob/master/Part2-App/Assessment%20Data.xlsx)
