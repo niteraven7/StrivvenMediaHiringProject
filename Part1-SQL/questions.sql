@@ -5,6 +5,10 @@
   About the DATA
   There are 4 tables
   here is a list with descriptions
+
+  IMPORTANT: YOU MAY CHANGE THE TABLE STRUCTURES IF YOU WOULD LIKE.
+      THE LAST QUESTION WILL ASK ABOUT ALL YOUR CHANGES.
+
   - users
      - just a list of user data
   - emails
@@ -81,4 +85,5 @@ SELECT *
 
 -- QUESTION 8
 -- given the table structure provided.
--- How would you change/improve our schema? Any Why?
+-- How would you did/would you change/improve our schema? Any Why?
+-- Please list all changes that were made and a justification for the change.

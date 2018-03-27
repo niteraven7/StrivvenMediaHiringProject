@@ -18,6 +18,7 @@ We have provided you with a [schemas.sql file](https://github.com/StrivvenMedia/
 
 There is a file [questions.sql](https://github.com/StrivvenMedia/HiringProject/blob/master/Part1-SQL/questions.sql) that you will need to open and fill out.  It contains questions that need to be answered, using the schemas provided.  For example something like, please write a query that gets all the users with no email ordered by their first names descending.
 
+IMPORTANT: It is ok/expected that you will change the Table Schemas. There will be a question that asks what you changed, and why.  
 
 
 # Part 2
